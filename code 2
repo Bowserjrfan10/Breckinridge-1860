@@ -264,7 +264,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3964,
         "fields": {
             "question": 547,
-            "description": "Not at all. It would violate the norms of our times. Besides, this election is already unsure enough the last thing we need is to do something unprecedented and have it backfire."
+            "description": "Not at all. It would violate the norms of our times. Besides, this election is already unsure enough; the last thing we need is to do something unprecedented and have it backfire."
         }
     },
     {
@@ -472,7 +472,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3999,
         "fields": {
             "question": 560,
-            "description": "These are just baseless allegations made by the Black Republican Party to paint decent Southern people as radicals when the only true radicals are the abolitionists."
+            "description": "These are just baseless allegations made by the Black Republican Party to paint the decent Southern people as radicals when the only true radicals are the abolitionists themselves."
         }
     },
     {
@@ -552,7 +552,7 @@ campaignTrail_temp.answers_json = [
         "pk": 14182,
         "fields": {
             "question": 547,
-            "description": "The South will never turn its back on us. So it would be best if I campaign in Northern states such as Pennsylvania or Connecticut meanwhile, my running mate will campaign for our cause in the West."
+            "description": "The South will never turn its back on us. So it would be best if I campaign in Northern states such as Pennsylvania or Connecticut, meanwhile, my running mate will campaign for our cause in the West."
         }
     },
     {
@@ -840,7 +840,7 @@ campaignTrail_temp.answers_json = [
         "pk": 14961,
         "fields": {
             "question": 568,
-            "description": "Wasn't this issue already settled in <em>Dred Scott v. Sandford</em> ? slaves are still slaves regardless of whether they are in a free state or slave state. If the Supreme Court orders the slaves to be free, they would be contradicting themselves. "
+            "description": "Wasn't this issue already settled in <em>Dred Scott v. Sandford</em>? The court already ruled that slaves are still slaves regardless of whether they are in a free state or a slave state. If the Supreme Court orders the slaves to be free, they would be contradicting themselves. "
         }
     },
     {
@@ -848,7 +848,7 @@ campaignTrail_temp.answers_json = [
         "pk": 14962,
         "fields": {
             "question": 568,
-            "description": "I wish not to comment on this."
+            "description": "I wish not to comment on this. "
         }
     },
     {
@@ -9985,7 +9985,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3961,
             "candidate": 67,
-            "answer_feedback": "Lane will help you In Oregon."
+            "answer_feedback": "Lane is a decent choice for the vice presidency, and he will surely help you in Oregon."
         }
     },
     {
@@ -10712,6 +10712,11 @@ campaignTrail_temp.jet_data = [{
         "runImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Joseph_Lane_%282%29.jpg/440px-Joseph_Lane_%282%29.jpg",
         "runName": "Lane",
         "canName": "Breckinridge"
+    }
+}
+]
+
+
     }
 }
 ]
