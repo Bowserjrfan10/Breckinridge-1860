@@ -808,7 +808,7 @@ campaignTrail_temp.answers_json = [
         "pk": 14870,
         "fields": {
             "question": 563,
-            "description": "Right now, the Union has 18 free states and 15 slave states. The Union is already dominated by free states, and adding another free state will tip the scale further in favor. But I am a man of compromise, so I propose that in exchange for admitting Kansas as a free state, The North must also allow the admission of Utah, New Mexico, And Indian Territories as slave states."
+            "description": "Currently, the Union has 18 free states and 15 slave states. The Union is already dominated by free states, and adding another free state will tip the scale further in their favor. But I am a man of compromise, so I propose that in exchange for admitting Kansas as a free state, the North must also allow the admission of Utah, New Mexico, and Indian Territories as slave states."
         }
     },
     {
@@ -10712,11 +10712,6 @@ campaignTrail_temp.jet_data = [{
         "runImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Joseph_Lane_%282%29.jpg/440px-Joseph_Lane_%282%29.jpg",
         "runName": "Lane",
         "canName": "Breckinridge"
-    }
-}
-]
-
-
     }
 }
 ]
